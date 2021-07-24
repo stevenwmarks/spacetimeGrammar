@@ -1,0 +1,33 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+#lyric01 {
+	position: absolute;
+	top: 30px;
+	left: 50px;
+	z-index: 100;
+	display:block;
+    color: white;
+    font-size: 30px
+
+}
+
+
+/*# sourceMappingURL=main.css.map*/
